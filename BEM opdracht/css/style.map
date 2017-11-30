@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"\nhtml body {\n  margin: 1;\n  padding: 0;\n  font-family: monospace; }\n\n\n.container {\n  padding-left: 6%;\n  padding-right: 4%; }\n\n.centered {\n  text-align: center; }\n\n.content {\n  color: #363636;\n  margin: 0 10% 0 10%;\n  h1 {\n    font-size: 30px; }\n  h2 {\n    font-size: 20px; }\n  p {\n    font-size: 20px; } }\n\n.header {\n  margin-left: 25%;\n  background-color: whitesmoke;\n  color: black;\n  width: 50%;\n  &__content {\n    padding: 10px 10px; }\n  &__title {\n    font-size: 30px; }\n  &__subtitle {\n    font-size: 45px; } }\n\n\n.footer {\n  background-color: whitesmoke;\n  color: black;\n  margin-left: 25%;\n  width: 50%;\n  &__content {\n    padding: 10px; }\n  &__text {\n    font-size: 25px; } }\n"
+	],
+	"mappings": ";AACA,AAAK,IAAD,CAAC,IAAI,CAAC;EACR,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;EACX,WAAW,EAAE,SAAU;CAAG;;;AAG5B,AAAA,UAAU,CAAC;EACT,YAAY,EAAE,EAAG;EACjB,aAAa,EAAE,EAAG;CAAG;;;AAEvB,AAAA,SAAS,CAAC;EACR,UAAU,EAAE,MAAO;CAAG;;;AAExB,AAAA,QAAQ,CAAC;EACP,KAAK,EAAE,OAAQ;EACf,MAAM,EAAE,WAAY;CAMG;;;AARzB,AAGE,QAHM,CAGN,EAAE,CAAC;EACD,SAAS,EAAE,IAAK;CAAG;;;AAJvB,AAKE,QALM,CAKN,EAAE,CAAC;EACD,SAAS,EAAE,IAAK;CAAG;;;AANvB,AAOE,QAPM,CAON,CAAC,CAAC;EACA,SAAS,EAAE,IAAK;CAAG;;;AAEvB,AAAA,OAAO,CAAC;EACN,WAAW,EAAE,GAAI;EACjB,gBAAgB,EAAE,UAAW;EAC7B,KAAK,EAAE,KAAM;EACb,KAAK,EAAE,GAAI;CAMY;;;AAVzB,AAAA,gBAAO,CAKM;EACT,OAAO,EAAE,SAAU;CAAG;;;AAN1B,AAAA,cAAO,CAOI;EACP,SAAS,EAAE,IAAK;CAAG;;;AARvB,AAAA,iBAAO,CASO;EACV,SAAS,EAAE,IAAK;CAAG;;;AAGvB,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,UAAW;EAC7B,KAAK,EAAE,KAAM;EACb,WAAW,EAAE,GAAI;EACjB,KAAK,EAAE,GAAI;CAIY;;;AARzB,AAAA,gBAAO,CAKM;EACT,OAAO,EAAE,IAAK;CAAG;;;AANrB,AAAA,aAAO,CAOG;EACN,SAAS,EAAE,IAAK;CAAG",
+	"names": []
+}

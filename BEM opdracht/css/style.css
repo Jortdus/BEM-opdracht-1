@@ -1,0 +1,81 @@
+/* line 2, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+html body {
+  margin: 1;
+  padding: 0;
+  font-family: monospace;
+}
+
+/* line 8, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.container {
+  padding-left: 6%;
+  padding-right: 4%;
+}
+
+/* line 12, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.centered {
+  text-align: center;
+}
+
+/* line 15, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.content {
+  color: #363636;
+  margin: 0 10% 0 10%;
+}
+
+/* line 18, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.content h1 {
+  font-size: 30px;
+}
+
+/* line 20, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.content h2 {
+  font-size: 20px;
+}
+
+/* line 22, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.content p {
+  font-size: 20px;
+}
+
+/* line 25, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.header {
+  margin-left: 25%;
+  background-color: whitesmoke;
+  color: black;
+  width: 50%;
+}
+
+/* line 30, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.header__content {
+  padding: 10px 10px;
+}
+
+/* line 32, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.header__title {
+  font-size: 30px;
+}
+
+/* line 34, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.header__subtitle {
+  font-size: 45px;
+}
+
+/* line 38, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.footer {
+  background-color: whitesmoke;
+  color: black;
+  margin-left: 25%;
+  width: 50%;
+}
+
+/* line 43, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.footer__content {
+  padding: 10px;
+}
+
+/* line 45, /Users/jortbroekhof/Documents/bewijzenmap/jaar 2/p1.1/css/BEM/BEM opdracht/sass/style.sass */
+.footer__text {
+  font-size: 25px;
+}
+
+/*# sourceMappingURL=../css/style.map */
